@@ -1,0 +1,39 @@
+                                        DATA SCIENCE 
+INTRODUCTION :-
+Data science is a field of using scientific methods , algorithm and systems to extract knowledge and insights from data. Its about using various tools and techniques to analyze large amount of information and turn it into useful information for decision making. Essentially; it's turning raw data into actionable insights.
+
+IMPORTANCE :- 
+.Helps bussinesses make data driven decisions.
+.Enable prediction.
+.Uncover pattern and trends in large datasets.
+
+APPLICATION :- 
+Healthcare
+E- Commerce
+Finance
+Marketing 
+Social-Media
+
+WORKFLOW :-
+A typical data science workflow involves several stages, including:
+1. Problem Definition: Clearly defining the problem that needs to be solved and formulating relevant questions.
+2. Data Collection: Gathering data from various sources, both structured and unstructured.
+3. Data Cleaning and Preparation: Cleaning, transforming, and preparing the data for analysis by handling missing values, outliers, and inconsistencies.
+4. Exploratory Data Analysis (EDA): Exploring the data to understand its characteristics, identify patterns, and generate hypotheses.
+5. Model Building: Selecting and training appropriate machine learning models to address the defined problem.
+6. Model Evaluation: Evaluating the performance of the trained model using appropriate metrics and techniques.
+7. Model Deployment: Deploying the chosen model to a production environment and integrating it into a system or application.
+
+SKILLS REQUIRED :-
+1.Programming: Proficiency in languages like Python, R, and SQL is essential for data manipulation, analysis, and model building.
+2.Mathematics and Statistics: Strong understanding of statistical concepts, probability, linear algebra, and calculus is crucial for model development and interpretation.
+3.Domain Expertise: Understanding the specific industry or domain where the data science project is being conducted
+4.Phython library: learn to use numpy , pandas for data manipulation and saeborn for data visulization.
+
+MUTABLE :-
+Those whose value or contents can be modified after they are created.
+Example:- List, dict, set.
+
+IMMUTABLE :-
+Those whose value or contents can not be changed after they are created.
+Example:- int, float, bool, str, tuple.
